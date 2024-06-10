@@ -1,6 +1,6 @@
 ## Hello World, I'm Fazil! 👋
 
-I am a passionate Data Scientist and a budding Web Developer.I completed my Bachelor’s of Engineering in Computer Science from B.S. Abdur Rahman Crescent Institute of Science and Technology in May 2024.. I am a ambitious person, which makes me want to always learn new things, a problem-solver who questions a lot, and a hard worker who doesn't take life too seriously and enjoys the little things.
+I am a passionate Data Scientist and a budding Web Developer. I completed my Bachelor’s of Technology in Computer Science from B.S. Abdur Rahman Crescent Institute of Science and Technology in May 2024.. I am a ambitious person, which makes me want to always learn new things, a problem-solver who questions a lot, and a hard worker who doesn't take life too seriously and enjoys the little things.
 
 ## 💻 My Tech Stack<br>
 
