@@ -5,7 +5,7 @@ I am a passionate Data Scientist and a budding Web Developer.I completed my Bach
 ## 💻 My Tech Stack<br>
 
 * Languages: Python, SQL, HTML, CSS, JavaScript
-* Frameworks & Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn ReactJS, NodeJS
+* Frameworks & Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, ReactJS, NodeJS
 * Tools:  MongoDB, MySQL, Power BI, Git, GitHub, VSCode, Google Colab
 
 ## ⛓ My Links
